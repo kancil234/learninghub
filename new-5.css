@@ -76,3 +76,39 @@ button{
   background-color: #b7b2b2
 }
 
+button:hover{
+  background-color: #b7b2b2
+}
+
+img{
+  margin-top: 20px;
+  height: 250px;
+  border-radius: 30px;
+}
+
+img:hover{
+  height: 280px;
+}
+
+.payment{
+  background-color: #d8d8d8;
+  height: 100vh;
+  text-align: center;
+  
+}
+
+h2{
+  margin-top: 30px;
+  color: rgb(13, 83, 189);
+}
+
+input{
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 10px;
+  width: 30%;
+}
+
+input [type=radio]{
+  font-size: 50px;
+}
